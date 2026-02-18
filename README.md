@@ -1,7 +1,6 @@
-# APP-AIDS 
+# AI Disease Prediction System (Machine Learning Project)
 
 AI based Disease Prediction System using Machine Learning.
-
 This project predicts possible diseases based on symptoms entered by the user.
 
 
